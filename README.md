@@ -13,4 +13,4 @@ npm run ios
 First, you'll notice an Error in the console:
 `ERROR  react-native-compat: Application module is not available`
 
-Then, click on the button "Test web3wallet creation" and see that the app crashes :) 
+Then, click on the button "Click me!" and see that the app crashes :) 
